@@ -106,4 +106,4 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 # REDUCIR EL PESO DESCARTANDO TODO LO DE VUFORIA
-/[Pp]ackages/com.ptc.vuforia.engine-11.4.4.tgz/
+/Packages/com.ptc.vuforia.engine-11.4.4.tgz/
